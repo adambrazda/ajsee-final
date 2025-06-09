@@ -20,6 +20,7 @@
   "homepage": "https://github.com/adambrazda/ajsee-final#readme",
   "description": "",
   "devDependencies": {
+    "sass-embedded": "^1.89.2",
     "vite": "^6.3.5"
   }
 }
